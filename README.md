@@ -119,5 +119,5 @@ Built as a portfolio project to demonstrate skills in:
 Data Engineering, SQL Analytics, Machine Learning, and Data Visualization.
 
 Author Max/Picard777
-
+LICENSE:MIT
 
